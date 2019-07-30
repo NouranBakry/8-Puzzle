@@ -7,6 +7,6 @@ In order to run this project you will need to install latest [python](https://ww
 # Installation & Starting up
 1. Fork this repository
 2. Clone this repository
-3. Run the application ```$ python Main.py```, "if you are operating on windows, make sure python is added to your path"
+3. Run the application ```$ python Main.py```
 
 Enjoy!
